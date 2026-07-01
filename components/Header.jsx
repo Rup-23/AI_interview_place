@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <nav className="fixed top-0 inset-x-0 z-50 flex items-center justify-between px-3 sm:px-10 py-3 border-b border-white/7 backdrop-blur-xl">
        <span className="font-extrabold text-xl">
-        <Link href={"/"}>𝔸𝕀 𝕀𝕟𝕥𝕖𝕣𝕧𝕚𝕖𝕨 ℙ𝕝𝕒𝕔𝕖</Link>
+        <Link href={"/"}>𝕄𝕠𝕔𝕜𝕄𝕒𝕥𝕖</Link>
         </span>
 
            {/* Sign in */}

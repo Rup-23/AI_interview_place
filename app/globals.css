@@ -126,3 +126,11 @@
 
   }
 }
+
+.cl-internal-b8hinb{
+  grid-template-columns: auto auto auto !important;
+}
+
+.cl-button {
+  background-color: rgb(70, 231, 115) !important;
+}
